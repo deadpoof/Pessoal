@@ -1,0 +1,7 @@
+ 
+[archlinuxfr]
+SigLevel = Never
+Server = http://repo.archlinux.fr/$arch
+
+
+ gvfs e gvfs-mtp <-- montar celular archLinux
